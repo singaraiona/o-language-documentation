@@ -1,2 +1,0 @@
-Lisp under the hood
-===================
